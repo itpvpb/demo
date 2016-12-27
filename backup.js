@@ -1,7 +1,7 @@
 {
 "scheme":"https",
-"api":"user.auth204.xyz:21568",
-"auth":"user.auth203.xyz:22135",
+"api":"u9.auth209.xyz:21568",
+"auth":"u10.auth209.xyz:22135",
 "siteurl":"https://a.tzqby.xyz:17869",
 "error_notify":false,
 "init_notify":false,
