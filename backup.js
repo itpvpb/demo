@@ -1,7 +1,7 @@
 {
 "scheme": "https",
-"api": "htauth1.tedada.pw",
-"auth": "htauth2.tedada.pw",
+"api": "htauth1.taobaocdn.club",
+"auth": "htauth2.taobaocdn.club",
 "siteurl": "http://www.gmailaccess.com",
 "homepage": "http://www.gmailaccess.com",
 "openhome": false,
