@@ -5,7 +5,7 @@
 "siteurl": "http://www.gmailaccess.com",
 "homepage": "http://www.fastwhale.press/home/invite?code=fd4a7557d8a88a1d",
 "openhome": true,
-"domains": "'www.google.co.jp','www.google.com','www.google.com.hk','maps.google.com','scholar.google.com','scholar.google.com.hk','googleusercontent.com','mail.google.com','googleapis.com','gstatic.com','gmail.com','sstatic.net','developer.android.com','googlesyndication.com','doubleclick.net','googleadservices.com'",
+"domains": "'www.google.co.jp','clients2.google.com','www.google.com','www.google.com.hk','maps.google.com','scholar.google.com','scholar.google.com.hk','googleusercontent.com','mail.google.com','googleapis.com','gstatic.com','gmail.com','sstatic.net','developer.android.com','googlesyndication.com','doubleclick.net','googleadservices.com'",
 "error_notify": false,
 "init_notify": false,
 "msg": "",
